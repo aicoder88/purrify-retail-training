@@ -1,6 +1,21 @@
-# Purrify Retail Training Materials
+# ⚠️ ARCHIVED - INACCURATE CONTENT ⚠️
 
-Comprehensive training materials for Purrify's 20+ retail partners. All materials are available in **English**, **French**, and **Spanish**.
+## 🛑 DO NOT USE THIS CONTENT
+
+**Status:** ARCHIVED (January 19, 2026)
+**Reason:** Contains factual inaccuracies and outdated information
+
+**For accurate Purrify information, visit:**
+- https://www.purrify.ca
+- https://www.purrify.ca/documents
+
+---
+
+# ~~Purrify Retail Training Materials~~
+
+~~Comprehensive training materials for Purrify's 20+ retail partners. All materials are available in **English**, **French**, and **Spanish**.~~
+
+**⚠️ This content is no longer accurate. Do not use for any purpose.**
 
 ## 📁 Directory Structure
 
